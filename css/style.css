@@ -270,9 +270,8 @@ body {
 
 .comment-name {
 	display: block;
-	margin: 10px 0 0 0;
+	margin: -32px 0 0 116px;
 	font-size: 12px;
-	font-weight: 70px;
 	font-family: Arial;
 	float: left;
 	color: #989898;
@@ -466,6 +465,7 @@ body {
 	color: #465364;
 	font-size: 17px;
 	border-radius: 8px;
+	outline: none;
 }
 
 .message-area {
@@ -478,6 +478,7 @@ body {
 	color: #465364;
 	font-size: 17px;
 	border-radius: 8px;
+	outline: none;
 }
 
 .send-button {
